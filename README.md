@@ -34,19 +34,5 @@ Interested in Telegram Mini Apps and Web3 projects.
 
 ---
 
-## 🔭 Latest Projects
-
-- [Project 1](https://github.com/kwtpub/project1) — brief description  
-- [Project 2](https://github.com/kwtpub/project2) — brief description  
-
----
-
-## ⚡ Fun Facts
-
-- Skilled in both frontend and backend development  
-- Passionate about clean code and efficient workflows  
-- Actively contribute to open-source projects and enjoy learning new technologies
-
----
 
 *Thanks for stopping by! Feel free to reach out for collaboration or just to say hi.*
