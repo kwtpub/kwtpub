@@ -2,8 +2,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 🌐 Website: https://yourwebsite.com  
+- 📧 Email: kwtd6v@proton.me
+- 🌐 Website: https://kwtd6v.netlify.app
 - 💬 Telegram: [@kwtpubb](https://t.me/kwtpubb)
 
 ---
