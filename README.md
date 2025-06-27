@@ -1,49 +1,52 @@
-# Привет, я [Ваше Имя]! 👋
+# Hi, I'm Timofei! 👋
 
-Разработчик и Linux-энтузиаст, увлечённый настройкой и автоматизацией рабочих процессов.  
-Люблю работать с Alpine, Ubuntu, Neovim и GitHub Actions.
+## 📫 Contact Me
 
----
-
-## 🚀 Навыки и технологии
-
-- 🐧 Linux (Alpine, Ubuntu)  
-- 📝 Конфигурация Neovim и файловых менеджеров  
-- 🌐 Git, GitHub, CI/CD  
-- 🎨 Дизайн интерфейсов (Figma)  
-- ⚙️ Автоматизация и скрипты
+- 📧 Email: your.email@example.com  
+- 🌐 Website: https://yourwebsite.com  
+- 💬 Telegram: [@kwtpubb](https://t.me/kwtpubb)
 
 ---
 
-## 📫 Связаться со мной
-
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)  
-[![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/your_vk)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
+Full-stack developer passionate about building scalable web applications and automating workflows.  
+Experienced with JavaScript, React, Tailwind CSS, Python, PostgreSQL, TypeScript, Node.js, Git, and MongoDB.  
+Interested in Telegram Mini Apps and Web3 projects.
 
 ---
 
-## 📊 Моя активность на GitHub
+## 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,python,postgres,ts,nodejs,git,mongodb" alt="Tech Stack" />
+
+---
+
+## 📫 Social Media
+
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kwtpubb)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kwtpub)
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwtpub&show_icons=true&theme=radical)  
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kwtpub&theme=radical)  
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kwtpub&theme=radical)
 
 ---
 
-## 🔭 Последние проекты
+## 🔭 Latest Projects
 
-- [Проект 1](https://github.com/kwtpub/project1) — краткое описание  
-- [Проект 2](https://github.com/kwtpub/project2) — краткое описание  
-
----
-
-## ⚡ Интересные факты
-
-- Постоянно изучаю новые технологии и инструменты  
-- Люблю оптимизировать рабочие процессы и писать скрипты  
-- Активно участвую в open-source проектах
+- [Project 1](https://github.com/kwtpub/project1) — brief description  
+- [Project 2](https://github.com/kwtpub/project2) — brief description  
 
 ---
 
-*Спасибо за визит! Буду рад сотрудничеству и новым знакомствам.*  
+## ⚡ Fun Facts
+
+- Skilled in both frontend and backend development  
+- Passionate about clean code and efficient workflows  
+- Actively contribute to open-source projects and enjoy learning new technologies
+
+---
+
+*Thanks for stopping by! Feel free to reach out for collaboration or just to say hi.*
