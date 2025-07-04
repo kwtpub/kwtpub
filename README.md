@@ -3,7 +3,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: kwtd6v@proton.me
-- 🌐 Website: https://kwtd6v.netlify.app
+- 🌐 Website: https://kwt.pub
 - 💬 Telegram: [@kwtpubb](https://t.me/kwtpubb)
 
 ---
