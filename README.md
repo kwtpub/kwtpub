@@ -1,32 +1,55 @@
-# Timofei Chizhov
+<div align="center">
+  <img src="https://media.giphy.com/media/PWlsJVm3mhwQhD7imf/giphy.gif" alt="Glitch animation with error windows" width="480" />
 
-**Application Security / Product Security · Full-stack background**
+  <h1>
+    Hey there, I'm Timofei!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="30" />
+  </h1>
 
-I'm a software developer moving into AppSec and Product Security, with a background in building web applications, APIs, and automation tools.
+  <p>Full-stack developer, learning AppSec &amp; Product Security.</p>
 
-My current focus is understanding how design decisions and implementation details affect the security of a product—from authentication flows to the boundaries between users, services, and data.
+  <p>
+    <a href="mailto:kwtd6v@proton.me">Email</a> ·
+    <a href="https://t.me/kwtpubb">Telegram</a> ·
+    <a href="https://kwt.pub">Website</a>
+  </p>
 
-### Security focus
+  <details>
+    <summary>Extra details</summary>
+    <ul align="left">
+      <li><b>Background:</b> web apps, APIs, and automation.</li>
+      <li><b>Currently learning:</b> web &amp; API security, secure code review, and threat modeling.</li>
+    </ul>
+  </details>
+</div>
 
-- **Web & API security** — authentication, authorization, session management, and input handling.
-- **Secure code review** — tracing data through an application and understanding how vulnerabilities arise.
-- **Threat modeling** — mapping trust boundaries, abuse cases, and the controls a product needs.
-- **Security in development** — turning findings into practical fixes and regression tests.
+## 🔥 My work
 
-### Development background
+<details>
+  <summary>Web &amp; CLI</summary>
+  <ul>
+    <li><a href="https://github.com/kwtpub/JWT-authentication">JWT authentication</a> — a Node.js learning project with registration, email activation, and access/refresh tokens.</li>
+    <li><a href="https://github.com/kwtpub/CLI-command-executor">CLI command executor</a> — an extensible command runner in TypeScript.</li>
+  </ul>
+</details>
 
-TypeScript · JavaScript · Python · Node.js · React · PostgreSQL · MongoDB · Git
+<details>
+  <summary>Native &amp; automation</summary>
+  <ul>
+    <li><a href="https://github.com/kwtpub/winapi-macos">winapi-macos</a> — a macOS compatibility layer for educational WinAPI graphics projects.</li>
+    <li><a href="https://github.com/kwtpub/daily-digest">Daily digest</a> — a daily digest of security, AI, and security startups.</li>
+  </ul>
+</details>
 
-### Selected development projects
+## 🛠️ Languages and tools
 
-These projects represent my engineering background as I build my security portfolio.
-
-| Project | What I built |
-| --- | --- |
-| [JWT authentication](https://github.com/kwtpub/JWT-authentication) | A Node.js learning project with registration, email activation, access/refresh tokens, and logout. |
-| [CLI command executor](https://github.com/kwtpub/CLI-command-executor) | An extensible TypeScript CLI for running terminal commands. |
-| [winapi-macos](https://github.com/kwtpub/winapi-macos) | A macOS compatibility layer and installer for educational C++ graphics projects. |
-
-### Connect
-
-[Email](mailto:kwtd6v@proton.me) · [Telegram](https://t.me/kwtpubb) · [Website](https://kwt.pub)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+</p>
