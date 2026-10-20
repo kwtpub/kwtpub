@@ -1,38 +1,32 @@
-# Hi, I'm Timofei! 👋
+# Timofei Chizhov
 
-## 📫 Contact Me
+**Application Security / Product Security · Full-stack background**
 
-- 📧 Email: kwtd6v@proton.me
-- 🌐 Website: https://kwt.pub
-- 💬 Telegram: [@kwtpubb](https://t.me/kwtpubb)
+I'm a software developer moving into AppSec and Product Security, with a background in building web applications, APIs, and automation tools.
 
----
+My current focus is understanding how design decisions and implementation details affect the security of a product—from authentication flows to the boundaries between users, services, and data.
 
-Full-stack developer passionate about building scalable web applications and automating workflows.  
-Experienced with JavaScript, React, Tailwind CSS, Python, PostgreSQL, TypeScript, Node.js, Git, and MongoDB.  
-Interested in Telegram Mini Apps and Web3 projects.
+### Security focus
 
----
+- **Web & API security** — authentication, authorization, session management, and input handling.
+- **Secure code review** — tracing data through an application and understanding how vulnerabilities arise.
+- **Threat modeling** — mapping trust boundaries, abuse cases, and the controls a product needs.
+- **Security in development** — turning findings into practical fixes and regression tests.
 
-## 🚀 Tech Stack
+### Development background
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,python,postgres,ts,nodejs,git,mongodb" alt="Tech Stack" />
+TypeScript · JavaScript · Python · Node.js · React · PostgreSQL · MongoDB · Git
 
----
+### Selected development projects
 
-## 📫 Social Media
+These projects represent my engineering background as I build my security portfolio.
 
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kwtpubb)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kwtpub)
+| Project | What I built |
+| --- | --- |
+| [JWT authentication](https://github.com/kwtpub/JWT-authentication) | A Node.js learning project with registration, email activation, access/refresh tokens, and logout. |
+| [CLI command executor](https://github.com/kwtpub/CLI-command-executor) | An extensible TypeScript CLI for running terminal commands. |
+| [winapi-macos](https://github.com/kwtpub/winapi-macos) | A macOS compatibility layer and installer for educational C++ graphics projects. |
 
----
+### Connect
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwtpub&show_icons=true&theme=radical)  
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kwtpub&theme=radical)
-
----
-
-
-*Thanks for stopping by! Feel free to reach out for collaboration or just to say hi.*
+[Email](mailto:kwtd6v@proton.me) · [Telegram](https://t.me/kwtpubb) · [Website](https://kwt.pub)
