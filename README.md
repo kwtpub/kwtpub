@@ -28,7 +28,7 @@
 <details>
   <summary>Web &amp; CLI</summary>
   <ul>
-    <li><a href="https://github.com/kwtpub/JWT-authentication">JWT authentication</a> — a Node.js learning project with registration, email activation, and access/refresh tokens.</li>
+    <li><a href="https://github.com/kwtpub/JWT-authentication/blob/main/docs/APPSEC-CASE-STUDY.md">JWT authentication — AppSec case study</a> — security review, remediation, and 36 regression tests with a disposable MongoDB.</li>
     <li><a href="https://github.com/kwtpub/CLI-command-executor">CLI command executor</a> — an extensible command runner in TypeScript.</li>
   </ul>
 </details>
